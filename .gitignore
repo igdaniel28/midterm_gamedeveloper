@@ -1,0 +1,37 @@
+# =========================
+# Unity generated folders
+# =========================
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+UserSettings/
+MemoryCaptures/
+Recordings/
+
+# =========================
+# OS / IDE
+# =========================
+.DS_Store
+.vs/
+.vscode/
+.idea/
+
+# =========================
+# Visual Studio / Rider
+# =========================
+*.csproj
+*.unityproj
+*.sln
+*.user
+*.userprefs
+
+# =========================
+# Unity cache
+# =========================
+*.pidb
+*.booproj
+*.svd
+*.pdb
